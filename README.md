@@ -2,7 +2,7 @@
 
 This project comprises two parts:
 
-* The front end application - based on the [React Todo MVC Example](https://github.com/reactjs/redux/tree/master/examples/Todomvc).
+* The front end application - based on the React Todo MVC Example
 * A back end spring-boot application which serves as the API for this example.
 
 The application allows users to:

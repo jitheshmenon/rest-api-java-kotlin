@@ -1,4 +1,4 @@
-# SampleApp Coding Challenge
+# SampleApp 
 
 This project comprises two parts:
 
